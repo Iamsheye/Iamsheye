@@ -1,9 +1,9 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Iamsheye/Iamsheye/master/cover-sheye.png"></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Iamsheye/Iamsheye/master/Hi.gif" width="30px">, I am Sheye</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Iamsheye/Iamsheye/master/Hi.gif" width="30px">, I am Oluwaseye</h1>
 
 ### 🚀 About Me
-I'm a **Frontend React Developer**. My work revolves around developing user interfaces for the web. Currently learning Backend Development.
+I'm a **Software Engineer**. My work revolves around developing user interfaces for the web and mobile. Currently observing the universe👽.
 
 ### 🛠 Skills
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
