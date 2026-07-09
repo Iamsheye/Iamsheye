@@ -66,15 +66,15 @@ I’m a software engineer who enjoys solving real-world problems with clean, sca
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iamsheye&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iamsheye&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamsheye&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=Iamsheye&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamsheye&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Iamsheye&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
@@ -83,5 +83,4 @@ I’m a software engineer who enjoys solving real-world problems with clean, sca
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seyepelumi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majek-sheye)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iamsheye)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://oluwaseye.dev)
