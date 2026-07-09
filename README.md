@@ -6,7 +6,6 @@ I’m a software engineer who enjoys solving real-world problems with clean, sca
 
 - ⚛️ I specialize in **React**, **TypeScript**, **Next.js**, and **Tailwind CSS**
 - 🛠️ I also work with **React Native(Expo)**, **Node.js**, **PostgreSQL**, **Nest.js**.
-- 🌍 Based in Nigeria, working remotely across global teams
 
 ---
 
