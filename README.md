@@ -41,7 +41,9 @@ I’m a software engineer who enjoys solving real-world problems with clean, sca
 ![styled-components](https://img.shields.io/badge/-styled%20components-05122A?style=flat&logo=styled-components)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=mui)
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-05122A?style=flat&logo=antdesign)
+![Radix UI](https://img.shields.io/badge/-Radix%20UI-05122A?style=flat&logo=radix-ui)
 ![Shadcn](https://img.shields.io/badge/-Shadcn-05122A?style=flat&logo=shadcnui)
+
 
 **Tools & Platforms**
 
