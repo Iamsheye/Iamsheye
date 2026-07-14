@@ -72,10 +72,6 @@ I’m a software engineer who enjoys solving real-world problems with clean, sca
   <img src="https://streak-stats.demolab.com/?user=Iamsheye&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Iamsheye&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
 ---
 
 ### 🔗 Connect With Me
